@@ -1,14 +1,14 @@
-#React ToDo App 📝
+# React ToDo App 📝
 A clean and simple ToDo application built with React for managing your daily tasks. Your tasks are stored and synced with a backend server, ensuring your progress is always saved and accessible.
 
 ---
 
-##🚀 Live Preview
+## 🚀 Live Preview
 👉 **See the [live preview](https://yelyzavetaz.github.io/todo-app) here.**
 
 ---
 
-##⚙️ Technologies Used
+## ⚙️ Technologies Used
 - React: For building the user interface with functional components and hooks.
 - SCSS / CSS Modules: For styling the application.
 - TypeScript: For ensuring type safety and improving code quality.
@@ -17,7 +17,7 @@ A clean and simple ToDo application built with React for managing your daily tas
 
 ---
 
-##✨ Features
+## ✨ Features
 • **Add** new tasks to your list.
 • **Mark** tasks as **completed** to keep track of your progress.
 • **Delete** tasks you no longer need.
